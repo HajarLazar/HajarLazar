@@ -7,6 +7,13 @@
 ## 🧭 About Me
 I am a Computer Science student working on developing my skills in programming and various technologies, aiming to understand how informatics can be used to solve problems and support social entrepreneurship projects.
 
+
+- Nom complet : Hajar Lazar  
+- Âge : 20  
+- Discord : hajarlazar_54835_56547  
+- Établissement : Faculté des Sciences Oujda  
+
+
 ---
 
 ## 💻 Currently Working On
